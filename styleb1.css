@@ -1,0 +1,23 @@
+table {
+  border-collapse: collapse;
+  border-color: chartreuse;
+  text-align: center;
+
+}
+.th1{
+    background-color:green;
+    color:white;
+}
+.th2{
+    background-color:darkseagreen;
+    color:black;
+}
+.td1{
+    color: red;
+}
+.td2{
+    color: red;
+}
+.tt{
+    background-color: pink;
+}
